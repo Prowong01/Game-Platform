@@ -1,8 +1,33 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern gaming website interface built with React.js, GSAP animations, and Tailwind CSS.
 
-Currently, two official plugins are available:
+⚠️ Disclaimer
+All design credits go to Zentry. This project is created purely for educational purposes and is not intended for commercial use or public deployment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+
+- React.js - Frontend framework
+- GSAP (GreenSock Animation Platform) - Advanced animations
+- Tailwind CSS - Styling and responsiveness
+
+## ✨ Features
+
+- Interactive UI animations
+- Responsive design
+- [Add your key features]
+
+## 🚀Installation
+
+```bash
+# Clone the repository
+git clone [your-repo-link]
+
+# Navigate to project directory
+cd [project-name]
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
