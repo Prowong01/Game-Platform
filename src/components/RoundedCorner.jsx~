@@ -1,0 +1,10 @@
+import React from 'react'
+
+const RoundedCorner = () => {
+    return (
+        <svg>
+
+        </svg>
+    )
+}
+export default RoundedCorner
