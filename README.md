@@ -2,7 +2,7 @@
 
 A modern gaming website interface built with React.js, GSAP animations, and Tailwind CSS.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 All design credits go to Zentry. This project is created purely for educational purposes and is not intended for commercial use or public deployment.
 
 ## 🛠️ Tech Stack
